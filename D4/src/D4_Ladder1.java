@@ -9,7 +9,6 @@ public class D4_Ladder1 {
     public static void main(String[] args) throws NumberFormatException, IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-        int T = 10;
         int size = 100;
         for (int tc = 0; tc < 10; tc++) {
             int t_case = Integer.parseInt(br.readLine());
