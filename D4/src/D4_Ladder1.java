@@ -21,7 +21,6 @@ public class D4_Ladder1 {
                 }
             }
  
- 
             for (int c = 0; c < size; c++) {
                 int r = 0;
                 int cc = c;
